@@ -3,10 +3,12 @@
 Test Credential 
 
 Email 
-Username = abc@gmail.com
-Password = 123456
+
+  Username = abc@gmail.com
+  Password = 123456
 
 OTP
-Ph No = 1234567890
-OTP = 123456
+
+  Ph No = 1234567890
+  OTP = 123456
 
